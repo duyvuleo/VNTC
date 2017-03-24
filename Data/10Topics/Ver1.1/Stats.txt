@@ -1,0 +1,38 @@
+***Train***
+Topic	Topic ID	#files
+***************************************************************************
+Chinh tri Xa hoi	XH	5219
+Doi song	DS		3159
+Khoa hoc	KH		1820
+Kinh doanh	KD		2552
+Phap luat	PL		3868
+Suc khoe	SK		3384
+The gioi	TG		2898
+The thao	TT		5298
+Van hoa 	VH		3080
+Vi tinh		VT		2481
+
+Total				33759
+
+***Test***
+Chinh tri Xa hoi	XH	7567
+Doi song	DS		2036
+Khoa hoc	KH		2096
+Kinh doanh	KD		5276
+Phap luat	PL		3788
+Suc khoe	SK		5417
+The gioi	TG		6716
+The thao	TT		6667
+Van hoa		VH		6250
+Vi tinh		VT		4560
+
+Total				50373
+
+*** Notes:
+	* For Train & Test
+		+ DS_VNE_(...) : VnExpress news agency (http://vnexpress.net/)
+		+ DS_TT_(...):  Youth news agency (http://tuoitre.vn/)
+		+ DS_TN_(...): Thanh Nien news agency (http://thanhnien.vn/)
+		+ DS_NLD_(...): Nguoi Lao Dong news agency (http://nld.com.vn/)
+
+

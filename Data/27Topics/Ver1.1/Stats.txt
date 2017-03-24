@@ -1,0 +1,63 @@
+******Train*****
+Topic		Topic ID	#files
+*******************************************************
+Am nhac 		AN	900
+Am thuc 		AT	265
+Bat dong san 		BDS	246
+Bong da 		BD	1857
+Chung khoan 		CK	382
+Cum ga 			CG	510
+Cuoc song do day 	CSDD	729
+Du hoc 			DH	682
+Du lich 		DL	582
+Duong vao WTO		DVW	208
+Gia dinh 		GD	213
+Giai tri tin hoc	GTTH	825
+Giao duc 		GDu	821
+Gioi tinh 		GT	343
+Hacker & virus		HV	355
+Hinh su			HS	155
+Khong gian song 	KGS	134
+Kinh doanh quoc te	KDQT	571
+Lam dep			LD	776
+Loi song 		LS	223
+Mua sam 		MS	187
+My thuat		MT	193
+San khau dien anh	SKDA	1117
+San pham tin hoc moi	SPTHM	770
+Tennis			T	588
+The gioi tre		TGT	331
+Thoi trang 		TT	412
+
+Total				14375
+
+*****Test*********
+Am nhac 			813
+Am thuc 			400
+Bat dong san 			282
+Bong da 			1464
+Chung khoan 			320
+Cum ga 				381
+Cuoc song do day 		405
+Du hoc 				394
+Du lich 			565
+Duong vao WTO			191
+Gia dinh 			280
+Giai tri tin hoc		707
+Giao duc 			707
+Gioi tinh 			268
+Hacker & virus			319
+Hinh su				196
+Khong gian song 		58
+Kinh doanh quoc te		559
+Lam dep				735
+Loi song 			214
+Mua sam 			84
+My thuat			144
+San khau dien anh		1030
+San pham tin hoc moi		595
+Tennis				283
+The gioi tre			380
+Thoi trang 			302
+
+Total				12076
